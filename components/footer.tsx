@@ -26,15 +26,15 @@ export function Footer() {
       <Separator className="bg-gray-700 mb-6" />
       <div className="container mx-auto max-w-3xl flex justify-between items-center">
         <div className="flex space-x-6">
-          <Link href="mailto:mokshagrawal42@gmail.com" className="text-gray-400 hover:text-white transition-colors">
+          <Link href="mailto:harshboghani775@gmail.com" className="text-gray-400 hover:text-white transition-colors">
             <Mail className="h-5 w-5" />
             <span className="sr-only">Email</span>
           </Link>
-          <Link href="https://github.com/Moksh-10" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/HarshBoghani" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
           </Link>
-          <Link href="https://x.com/agmoksh10" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
+          <Link href="https://x.com/Harsh77700" className="text-gray-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
             <Twitter className="h-5 w-5" />
             <span className="sr-only">Twitter</span>
           </Link>

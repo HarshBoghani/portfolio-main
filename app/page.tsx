@@ -26,10 +26,10 @@ import { AccordionSections } from "@/components/accordion-sections"
 export default function Home() {
   return (
     <main className="space-y-8">
-      <h1 className="text-5xl font-bold mb-8">Moksh Agrawal</h1>
+      <h1 className="text-5xl font-bold mb-8">Harsh Boghani</h1>
       <div className="space-y-4">
         <Separator className="bg-gray-700" />
-        <p className="text-xl text-gray-300">Just a Culer interested in Machine Learning</p>
+        <p className="text-xl text-gray-300">Just a braincell interested in competitive programming</p>
       </div>
 
       <AccordionSections />
