@@ -29,7 +29,7 @@ const projectsData = {
       },
       {
         name: "Portfolio Website",
-        link: ""
+        link: "https://github.com/HarshBoghani/portfolio-main"
       },
       // Add more side projects here
     ]
